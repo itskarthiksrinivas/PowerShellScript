@@ -1,2 +1,2 @@
-# PowerShellScript
-I am sharing few PowerShell script which is useful for managing resources
+# PowerShell script to turn OFF all your VMs in your subscription 
+This script is used to turn off all the VMs in your subscription. 
