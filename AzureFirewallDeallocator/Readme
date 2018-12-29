@@ -1,0 +1,5 @@
+This script will deallocate all AzureFirewall in your subscription. 
+
+1.	Gets all Azure Firewall in your subsription 
+2.	Deallocates all Firewall
+
