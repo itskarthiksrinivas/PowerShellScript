@@ -1,0 +1,8 @@
+This script will remove all the DDOS plan in your subscription. 
+
+1.	Check for the VNETs which has DDoS plan associated. 
+2.	Disassociates DDoS from all the VNETs in your subscription.
+3.	Delete the DDOS plan from your subscription. 
+
+This will be easy and useful as you don’t need to manually navigate to each and every VNETs , disassociating the DDOS plan and deleting it. Moreover, it cost ~ Lakhs/Month.  You can run this script once a week to make sure you don’t have the DDOS plan in your subscription. 
+
