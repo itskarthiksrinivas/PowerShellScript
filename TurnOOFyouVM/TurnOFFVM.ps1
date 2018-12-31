@@ -1,5 +1,5 @@
 Connect-AzureRmAccount
-SubID = Read-Host -Prompt 'Enter your SubID'
+$SubID = Read-Host -Prompt 'Enter your SubID'
 Select-AzureRmSubscription -Subscriptionid $SubID
 $rmvms=Get-AzurermVM 
 
